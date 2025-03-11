@@ -79,4 +79,4 @@ This project is open-source under the [MIT License](LICENSE). Feel free to contr
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📬 Contact
-For any queries, reach out via [GitHub Issues](https://github.com/UtkarshMidha/Customer-Segmentation-using-KMeans-Clustering/issues).
+For any queries, reach out via [GitHub Issues](https://github.com/UtkarshMidha/Customer-Segmentation-using-KMeans-Clustering/issues)
